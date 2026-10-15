@@ -1,2 +1,1 @@
-# TODO: replace pub-0000000000000000 with your AdMob publisher ID, then delete this line.
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-8654788349036016, DIRECT, f08c47fec0942fa0
